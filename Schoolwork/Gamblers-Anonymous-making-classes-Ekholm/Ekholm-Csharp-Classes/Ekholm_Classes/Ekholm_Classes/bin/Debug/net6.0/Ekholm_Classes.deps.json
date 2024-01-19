@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Ekholm_Classes/1.0.0": {
+        "runtime": {
+          "Ekholm_Classes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ekholm_Classes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

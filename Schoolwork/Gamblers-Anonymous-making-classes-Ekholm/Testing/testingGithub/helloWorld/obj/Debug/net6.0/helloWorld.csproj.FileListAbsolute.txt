@@ -1,0 +1,15 @@
+C:\Users\chand\Source\Repos\Gamblers-Anonymous\testingGithub\helloWorld\bin\Debug\net6.0\helloWorld.exe
+C:\Users\chand\source\repos\Gamblers-Anonymous\testingGithub\helloWorld\bin\Debug\net6.0\helloWorld.deps.json
+C:\Users\chand\source\repos\Gamblers-Anonymous\testingGithub\helloWorld\bin\Debug\net6.0\helloWorld.runtimeconfig.json
+C:\Users\chand\Source\Repos\Gamblers-Anonymous\testingGithub\helloWorld\bin\Debug\net6.0\helloWorld.dll
+C:\Users\chand\Source\Repos\Gamblers-Anonymous\testingGithub\helloWorld\bin\Debug\net6.0\helloWorld.pdb
+C:\Users\chand\Source\Repos\Gamblers-Anonymous\testingGithub\helloWorld\obj\Debug\net6.0\helloWorld.csproj.AssemblyReference.cache
+C:\Users\chand\Source\Repos\Gamblers-Anonymous\testingGithub\helloWorld\obj\Debug\net6.0\helloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chand\Source\Repos\Gamblers-Anonymous\testingGithub\helloWorld\obj\Debug\net6.0\helloWorld.AssemblyInfoInputs.cache
+C:\Users\chand\Source\Repos\Gamblers-Anonymous\testingGithub\helloWorld\obj\Debug\net6.0\helloWorld.AssemblyInfo.cs
+C:\Users\chand\Source\Repos\Gamblers-Anonymous\testingGithub\helloWorld\obj\Debug\net6.0\helloWorld.csproj.CoreCompileInputs.cache
+C:\Users\chand\Source\Repos\Gamblers-Anonymous\testingGithub\helloWorld\obj\Debug\net6.0\helloWorld.dll
+C:\Users\chand\Source\Repos\Gamblers-Anonymous\testingGithub\helloWorld\obj\Debug\net6.0\refint\helloWorld.dll
+C:\Users\chand\Source\Repos\Gamblers-Anonymous\testingGithub\helloWorld\obj\Debug\net6.0\helloWorld.pdb
+C:\Users\chand\source\repos\Gamblers-Anonymous\testingGithub\helloWorld\obj\Debug\net6.0\helloWorld.genruntimeconfig.cache
+C:\Users\chand\source\repos\Gamblers-Anonymous\testingGithub\helloWorld\obj\Debug\net6.0\ref\helloWorld.dll
